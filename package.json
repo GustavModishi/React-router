@@ -2,6 +2,7 @@
   "name": "react-router-6",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/GustavModishi/React-router.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
